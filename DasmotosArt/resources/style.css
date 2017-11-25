@@ -1,0 +1,26 @@
+* {
+  font-family: arial;
+}
+.dasmoto {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+color: orange;
+text-align: center;
+font-size: 100px; }
+
+.brushes {
+  background-color: cyan;
+  color: white;
+  font-size: 30px;
+}
+
+.frames {
+  background-color: red; opacity: 0.4;
+  color: white;
+  font-size: 30px;
+}
+
+.paint {
+  background-color: blue; opacity: 0.2;
+  color: white;
+  font-size: 30px;
+}
